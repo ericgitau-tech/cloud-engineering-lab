@@ -1,3 +1,0 @@
-My first project while using linux operating systems
-
-This is my first project I'm doing using linux xubuntu and I'm really happy. Using linux make me feel more like a developer as I use command line tools to navigate through the machine.
